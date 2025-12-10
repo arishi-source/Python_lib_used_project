@@ -1,9 +1,9 @@
-In the folder where main and locations python files are stored  
+#In the folder where main and locations python files are stored  
 
-Install geopy lib of python using:
+#Install geopy lib of python using:
 pip install geopy
 
-Install requests using 
+#Install requests using 
 pip install requests
 
-through cmd
+#through cmd
