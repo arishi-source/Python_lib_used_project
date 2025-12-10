@@ -1,0 +1,9 @@
+In the folder where main and locations python files are stored  
+
+Install geopy lib of python using:
+pip install geopy
+
+Install requests using 
+pip install requests
+
+through cmd
